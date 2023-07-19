@@ -60,13 +60,14 @@
 
 .app__navbar-smallscreen {
     display: none;
+    cursor: pointer;
 }
 
 .app__navbar-smallscreen_overlay {
     position: fixed;
     top: 0;
-    left: 0;
-    width: 100%;
+    right: 0;
+    width: 30%;
     height: 100vh;
     background: var(--color-black);
     transition: 0.5s ease;
@@ -79,10 +80,11 @@
     font-size: 27px;
     color: var(--color-golden);
     cursor: pointer;
+    transition: 0.5s ease;
 
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: 60px;
+    right: 30px;
 }
 
 .app__navbar-smallscreen_links {

@@ -42,7 +42,7 @@ const Footer = () => (
     </div>
 
     <div className='footer__copyright'>
-      <p className='p__opensans'>2023 Gerícht. All Rights Reserved.</p>
+      <p className='p__opensans'>2023 Gourmet - Design: Renan Kouadio</p>
     </div>
 
   </div>

@@ -7,19 +7,19 @@ const wines = [
     tags: 'AU | Bottle',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Catena Malbec',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'AR | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'Châteu La Coste Rosé',
     price: '$44',
     tags: 'FR | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Gueuze Cuvée 3 Fonteinen',
+    price: '$39',
+    tags: 'BE | 750 ml',
   },
   {
     title: 'Irish Guinness',
@@ -30,7 +30,7 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Aperol Spritz',
     price: '$20',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
@@ -59,7 +59,7 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'Bon Gourmand',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
